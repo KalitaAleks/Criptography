@@ -1,5 +1,0 @@
-﻿  Laba3.cpp
-c:\users\uzer33\desktop\02_crypto\laba3\laba3\laba3.cpp(13): error C2065: textSH: необъявленный идентификатор
-c:\users\uzer33\desktop\02_crypto\laba3\laba3\laba3.cpp(13): error C2228: выражение слева от ".txt" должно представлять класс, структуру или объединение
-          тип: 'unknown-type'
-c:\users\uzer33\desktop\02_crypto\laba3\laba3\laba3.cpp(13): error C2660: fscanf: функция не принимает 1 аргументов
