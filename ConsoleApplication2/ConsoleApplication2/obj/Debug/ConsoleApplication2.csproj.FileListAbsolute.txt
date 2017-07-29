@@ -1,0 +1,7 @@
+C:\Users\uzer33\Desktop\02_crypto\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\uzer33\Desktop\02_crypto\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\uzer33\Desktop\02_crypto\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\uzer33\Desktop\02_crypto\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\uzer33\Desktop\02_crypto\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\uzer33\Desktop\02_crypto\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\uzer33\Desktop\Учеба\crypto\02_crypto\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

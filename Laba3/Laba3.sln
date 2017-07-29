@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba3", "Laba3\Laba3.vcxproj", "{56CF446D-B8BE-47EA-8BB5-BCCB4CC8394C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56CF446D-B8BE-47EA-8BB5-BCCB4CC8394C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{56CF446D-B8BE-47EA-8BB5-BCCB4CC8394C}.Debug|Win32.Build.0 = Debug|Win32
+		{56CF446D-B8BE-47EA-8BB5-BCCB4CC8394C}.Release|Win32.ActiveCfg = Release|Win32
+		{56CF446D-B8BE-47EA-8BB5-BCCB4CC8394C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
